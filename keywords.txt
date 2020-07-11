@@ -1,0 +1,4 @@
+logging KEYWORD1
+debug   KEYWORD2
+info    KEYWORD2
+error   KEYWORD2
